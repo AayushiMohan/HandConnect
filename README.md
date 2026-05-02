@@ -10,6 +10,7 @@ The system detects hand landmarks from a live camera feed and applies gesture-ba
 
 ---
 ## Made by using :
+
 Claude and Antigravity 
 ---
 ## Tech Stack:
