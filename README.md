@@ -9,7 +9,9 @@ Neon Aura AR is a browser-based augmented reality experience that uses real-time
 The system detects hand landmarks from a live camera feed and applies gesture-based logic to render dynamic effects like glowing fingertips, particles, lightning arcs, and sound feedback. The goal is to create an engaging, responsive AR experience using only web technologies.
 
 ---
-
+## Made by using :
+Claude and Antigravity 
+---
 ## Tech Stack:
 
 - HTML, CSS, JavaScript  
