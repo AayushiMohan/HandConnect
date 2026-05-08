@@ -103,5 +103,5 @@ Simply open `index.html` in any modern browser → allow camera access → click
 > Recommended: Use VS Code Live Server for smoother performance.
 ---
 ## Summary:
-A lightweight web AR project that turns hand gestures into real-time neon visuals and sound, combining computer vision, graphics, and audio in a single-page application.
+- A lightweight web AR project that turns hand gestures into real-time neon visuals and sound, combining computer vision, graphics, and audio in a single-page application.
 ---
