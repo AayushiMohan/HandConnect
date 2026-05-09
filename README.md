@@ -1,6 +1,6 @@
 # Neon Aura AR
 
-> Neon Aura AR is a browser-based augmented reality experience that uses real-time hand tracking to generate interactive neon visuals and audio effects. It runs directly in the browser using your webcam—no additional software required.
+> Neon Aura AR is a browser-based augmented reality experience that uses real-time hand tracking to generate interactive neon visuals and audio effects. It runs directly in the browser using your webcam and no additional software required.
 
 ---
 
